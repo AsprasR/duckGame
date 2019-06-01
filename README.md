@@ -1,2 +1,0 @@
-# duckGame
-Created with CodeSandbox
